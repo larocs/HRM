@@ -9,3 +9,4 @@ wandb
 omegaconf
 hydra-core
 huggingface_hub
+# sage-attention==1.0.6
